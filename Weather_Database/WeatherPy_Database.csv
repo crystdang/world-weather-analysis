@@ -1,4 +1,4 @@
-,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+City ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
 0,Codrington,AU,-38.2667,141.9667,64.08,83,96,13.04,light rain
 1,East London,ZA,-33.0153,27.9116,63.64,83,84,13.13,broken clouds
 2,Rikitea,PF,-23.1203,-134.9692,69.67,61,71,20.24,broken clouds
